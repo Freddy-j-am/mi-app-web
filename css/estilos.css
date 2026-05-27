@@ -43,3 +43,10 @@ contenido {
  text-align: center;
  padding: 20px;
 }
+.tarjeta:hover {
+ transform: translateY(-5px);
+ transition: 0.3s ease;
+}
+.encabezado {
+ border-bottom: 6px solid #38bdf8;
+}
